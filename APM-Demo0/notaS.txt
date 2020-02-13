@@ -1,0 +1,6 @@
+
+https://app.pluralsight.com/course-player?clipId=9f8e7b60-d255-42c7-bed1-c18ad664471a
+
+Before init: 
+npm install @ngrx/store --save
+
