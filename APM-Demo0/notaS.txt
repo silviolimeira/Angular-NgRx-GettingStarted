@@ -22,5 +22,21 @@ https://app.pluralsight.com/course-player?clipId=c8236932-3134-4629-ad90-89894fe
 Demo: Subscribing to the Store to Get State Changes
 https://app.pluralsight.com/course-player?clipId=78caac55-4560-4e50-bc0b-25f8c2c66146
 
+-----------------
+Home Work: Log In 
+-----------------
+
+Run the application and examite the login page
+
+Initialize the store in the user module
+
+Define the state (maskUserName) and action 
+(MASK_USER_NAME)
+
+Create the reducer function
+
+Dispatch an action
+
+Subscribe to the user slice of state
 
 
