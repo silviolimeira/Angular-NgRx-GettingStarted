@@ -11,3 +11,6 @@ https://app.pluralsight.com/course-player?clipId=9f8e7b60-d255-42c7-bed1-c18ad66
 Before init: 
 npm install @ngrx/store --save
 
+Demo: Building a Reducer to Process Actions
+https://app.pluralsight.com/course-player?clipId=152329ec-ff26-411e-ba44-10955576aff6
+
