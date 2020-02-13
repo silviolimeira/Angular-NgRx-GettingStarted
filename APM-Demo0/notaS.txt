@@ -1,4 +1,11 @@
 
+Altere a URL do remote de HTTPS para SSH com o comando git remote set-url.
+$ git remote set-url origin https://github.com/silviolimeira/Angular-NgRx-GettingStarted.git
+
+git remote add origin https://github.com/silviolimeira/Angular-NgRx-GettingStarted.git
+git push -u origin master
+
+
 https://app.pluralsight.com/course-player?clipId=9f8e7b60-d255-42c7-bed1-c18ad664471a
 
 Before init: 
