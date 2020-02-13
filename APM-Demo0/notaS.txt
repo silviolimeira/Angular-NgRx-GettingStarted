@@ -19,3 +19,8 @@ Demo: Dispatching an Action to Change State
 https://app.pluralsight.com/course-player?clipId=c8236932-3134-4629-ad90-89894fee0976
 
 
+Demo: Subscribing to the Store to Get State Changes
+https://app.pluralsight.com/course-player?clipId=78caac55-4560-4e50-bc0b-25f8c2c66146
+
+
+

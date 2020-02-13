@@ -3,8 +3,8 @@ export function reducer(state, action) {
 
         case 'TOGGLE_PRODUCT_CODE':
 
-            console.log('existing state: ' + JSON.stringify(state));
-            console.log('payload: ' + action.payload);
+            // console.log('existing state: ' + JSON.stringify(state));
+            // console.log('payload: ' + action.payload);
 
             return {
                 ...state,
