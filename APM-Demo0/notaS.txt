@@ -39,4 +39,15 @@ Dispatch an action
 
 Subscribe to the user slice of state
 
+--------------
+
+
+Steps to Install the Redux Store Dev Tools
+https://app.pluralsight.com/course-player?clipId=24d94204-e41c-47de-81f8-517499115727
+
+1) Install browser Redux DevTools extension
+2) Install @ngrx/store-DevTools
+   > npm install @ngrx/store-devtools --save
+3) Initialize @ngrx/store-devtools module
+
 
