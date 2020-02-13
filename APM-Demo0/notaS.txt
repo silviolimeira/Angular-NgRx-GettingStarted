@@ -14,3 +14,8 @@ npm install @ngrx/store --save
 Demo: Building a Reducer to Process Actions
 https://app.pluralsight.com/course-player?clipId=152329ec-ff26-411e-ba44-10955576aff6
 
+
+Demo: Dispatching an Action to Change State 
+https://app.pluralsight.com/course-player?clipId=c8236932-3134-4629-ad90-89894fee0976
+
+
