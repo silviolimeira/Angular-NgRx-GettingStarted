@@ -54,3 +54,4 @@ Strongly Typing the State: Defining Interfaces for Slice of States
 
 Extending the state interface for lazy loaded features
 
+Strongly typing the state
