@@ -50,4 +50,5 @@ https://app.pluralsight.com/course-player?clipId=24d94204-e41c-47de-81f8-5174991
    > npm install @ngrx/store-devtools --save
 3) Initialize @ngrx/store-devtools module
 
+Strongly Typing the State: Defining Interfaces for Slice of States
 
