@@ -1,4 +1,12 @@
 import { Product } from '../product';
+// Strongly Typing the State
+//   Extending the State Interface for 
+//     Lazy Loaded Features
+import * as fromRoot from '../../state/app.state'
+
+export interface State extends fromRoot.State {
+    products: ProductState;
+}
 
 export interface ProductState {
     showProductCode: boolean;

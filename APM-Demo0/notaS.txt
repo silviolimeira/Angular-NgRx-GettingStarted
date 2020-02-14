@@ -52,3 +52,5 @@ https://app.pluralsight.com/course-player?clipId=24d94204-e41c-47de-81f8-5174991
 
 Strongly Typing the State: Defining Interfaces for Slice of States
 
+Extending the state interface for lazy loaded features
+
